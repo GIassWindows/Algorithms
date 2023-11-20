@@ -1,3 +1,17 @@
+# Big O Notation
+
+Big O Notation is a way to measure time complexity of a code. Often displayed as O(1), O(n), O(n^2) where n is the factor that affects the runtime of the code. 
+
+N is often a loop, when there are no loops, the time complexity is constant. 
+
+O(1) is a constant time complexity represented in this case. There are no loops involved.
+
+O(n) is a linear time complexity. This represents the runtime of the code affected by a loop.
+
+O(n^2) is a quadratic time complexity. This represents the runtime of the code affected by a loop and a nested loop.
+
+
+
 # Eratothenes
 
 An algorithm developed by Sieve of Erathothenes to determine if a number is prime.
