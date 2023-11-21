@@ -60,6 +60,7 @@ public class SortingAlgorithms {
             System.out.print(testArray[i] + " ");
         }
     }
+    
     public static void main(String[] args) {
         int[] testArray = new int[15];
         for(int i = 0; i < testArray.length; i++){
