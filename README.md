@@ -37,6 +37,6 @@ Bubble sorting works by comparing adjacent array elements. This algorithm repeat
 
 Selection sorting works by repeatedly selecting the minimum element from an unsorted portion of the array and puts it back to the beginning. 
 
-## Insertion Sort
+### Insertion Sort
 
 Insertion sorting works the fastest by sorting a partially sorted array and rebuilds the array one value at a time.
